@@ -1,0 +1,61 @@
+# ==========================================
+# Data & Spreadsheet Files
+# ==========================================
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.ods
+
+# ==========================================
+# Image Files
+# ==========================================
+# Raster formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# Vector formats
+*.svg
+*.eps
+*.ai
+
+# ==========================================
+# System & Temporary Files
+# ==========================================
+# General/Office temporary files
+~$*
+.~lock.*
+
+# OS generated temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Common development temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+
+# R history and workspace data
+.RData
+.Rhistory
+
+# GIS Shapefiles and spatial data extensions
+*.shp
+*.dbf
+*.prj
+*.shx
+*.cpg
+*.sbx
+*.sbn
